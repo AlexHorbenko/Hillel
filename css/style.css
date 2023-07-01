@@ -1,0 +1,176 @@
+.body {
+
+    margin: 0 auto;
+    font-family: Tahoma;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 33.6px;
+}
+
+.first-img {
+    background-image: url(../img/girl.jpg);
+    background-position: right top;
+    background-repeat: no-repeat;
+    background-color: #343B42;
+
+}
+
+.container {
+    width: 1040px;
+    margin: 0 auto;
+}
+
+/* .header {} */
+
+.logo {
+    padding-top: 30px;
+    margin: 0;
+}
+
+.menu {
+    margin-bottom: 47px;
+    margin-top: 50px;
+}
+
+.menu a {
+    font-size: 14px;
+    line-height: 16.05px;
+    color: #FFFFFF;
+    text-decoration: none;
+    text-transform: capitalize;
+    margin-right: 32px;
+}
+
+.menu a:hover {
+    color: blueviolet;
+}
+
+.button {
+    font-weight: 700;
+    line-height: 17px;
+    text-align: left;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    padding: 10px 50px;
+    border: none;
+}
+
+.button-head {
+    font-size: 14px;
+    background: #62D0DF;
+}
+
+.first {
+    margin-top: 64px;
+}
+
+.button-main {
+    font-size: 16px;
+    background: #F9B640;
+    margin-top: 53px;
+    margin-bottom: 31px;
+}
+
+.title {
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 53px;
+    margin: 0;
+}
+
+.title-first {
+    color: #FFFFFF;
+    width: 505px;
+    height: 152px;
+    margin-bottom: 45px;
+}
+
+.second {
+    background-color: #62D0DF;
+    padding-top: 64px;
+    padding-bottom: 78px;
+}
+
+.title-second {
+    color: #000000;
+    margin-bottom: 46px;
+}
+
+.second-image {
+    background: #C4C4C4;
+    padding-bottom: 40px;
+    padding-top: 44px;
+}
+
+.title-third {
+    color: #720E0E;
+    margin-bottom: 62px;
+}
+
+.gray {
+    color: #D6D6D6;
+    width: 505px;
+    height: 139px;
+    top: 474px;
+    left: 201px;
+}
+
+.yellow {
+    color: #FAB63E;
+    font-family: Tahoma;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.1em;
+    text-align: left;
+    padding-bottom: 50px;
+    margin-bottom: 0;
+}
+
+.black {
+    color: #0B0B0B;
+    width: 960px;
+    height: 72px;
+    top: 1099px;
+    left: 240px;
+    padding-left: 40px;
+}
+
+.white {
+    color: #FFFFFF;
+}
+
+.third {
+    background-image: url(/img/drink1.jpg);
+    background-size: cover;
+}
+
+.third-image {
+    padding-top: 89px;
+    padding-bottom: 160px;
+}
+
+.fourth {
+    position: absolute;
+    top: 45px;
+    right: 70px;
+}
+
+.form {
+    width: 400px;
+    background-color: #C4C4C4;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.name {
+    margin-right: 15px;
+}
+
+.tel {
+    margin-bottom: 10px;
+}
+
+.hide {
+    display: none;
+}
